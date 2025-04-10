@@ -147,7 +147,7 @@ const Editor = () => {
               className="btnNormal !w-fit !px-[20px] bg-blue-500 transition-all hover:bg-blue-600"
               onClick={runProject}
             >
-              run
+              Run
             </button>
           </div>
           <pre
